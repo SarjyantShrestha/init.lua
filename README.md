@@ -1,2 +1,1 @@
-# init.lua
-Epic nvim lua config
+~/.config/nvim
